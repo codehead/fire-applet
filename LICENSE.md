@@ -1,0 +1,11 @@
+Permission to use, copy, modify and distribute this software and its
+documentation without fee for NON-COMMERCIAL purposes is hereby granted
+provided that this notice with a reference to the original source and
+the author appears in all copies or derivatives of this software.
+
+THE AUTHOR MAKES NO REPRESENTATIONS OR WARRANTIES ABOUT THE SUITABILITY OF
+THIS SOFTWARE, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
+TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, OR NON-INFRINGEMENT. THE AUTHOR SHALL NOT BE LIABLE FOR
+ANY DAMAGES SUFFERED BY ANYBODY AS A RESULT OF USING, MODIFYING OR
+DISTRIBUTING THIS SOFTWARE OR ITS DERIVATIVES.
